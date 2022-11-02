@@ -19,6 +19,7 @@ Two experiments were completed:
     * Set "covtype_flag" flag to False
     * Set "debug_flag" to False in run_on_dataset_isolet method.
     * The default setting is running on original features columns 37 and 102 separately. Both yielding accuracy improvemnts. Another option which is to conduct a longer experiment by looping through a subset of the 616 existing original features in the dataset and get classification results on each separately. Mind you this is a long wait running on a locally. Just comment/uncomment the required code following the "isolet_flag" if-condition
+    * The default settings is a test for adding aw_fronting feature which actually consists of 5 columns: aw_fronting_01_column, aw_fronting_02_column, aw_fronting_03_column, aw_fronting_04_column, aw_fronting_05_column. In the case you want to change the added-features you need to comment/uncommet in the code for adding the relevant feature for more details check: "Voicing_Effect_column", "pin_pen_merger_column", "General_American_column" for more options.
 
 Arnon.
 Department of Computer Science, Ben-Gurion University of the Negev, Beersheva, Israel
