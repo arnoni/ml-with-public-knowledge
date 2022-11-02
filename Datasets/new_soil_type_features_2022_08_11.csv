@@ -1,0 +1,41 @@
+﻿soil type,USFS ELU Code,Dominant geomorphic Position,Available Water Storage,water source percentage,majority_1 soil family percentage,1st Total Plant Available Water,1st Organic Carbon Stock 0-100 cm kg-m2 low,1st Organic Carbon Stock 0-100 cm kg-m2 high,1st T Erosion Factor,2nd majority soil family percentage,2nd Total Plant Available Water,2nd Organic Carbon Stock 0-100 cm kg-m2 low,2nd Organic Carbon Stock 0-100 cm kg-m2 high,2nd T Erosion Factor,rock outcrop percentage,Rubble land percentage
+1,2702,mountain slopes,2.26,0,60,2.26,3,5,1,0,0,0,0,0,30,0
+2,2703,mountain slopes,2.21,0,40,1.5,0,2,1,35,3.02,2,4,2,7,0
+3,2704,mountain slopes,4.24,0,55,4.78,6,9,3,0,0,0,0,0,15,0
+4,2705,mountain slopes,2.8,0,50,3.02,2,4,2,20,2.26,3,5,1,15,0
+5,2706,mountain slopes,1.5,0,50,1.5,0,2,1,0,0,0,0,0,35,0
+6,2717,mountain slopes,2.71,0,30,1.5,0,2,1,25,3.92,7,11,1,7,0
+7,3501,structural benches,11.81,0,90,17.01,2,8,3,0,0,0,0,0,0,0
+8,3502,mountain slopes benches,9.3,0,40,6.82,3,7,3,30,16.94,10,16,3,0,0
+9,4201,moraines,7.99,0,90,11.77,4,8,3,0,0,0,0,0,0,0
+10,4703,mountain slopes,4.33,0,50,6.1,6,12,3,25,2.26,6,9,2,15,0
+11,4704,mountain slopes,4.22,0,50,6.1,6,12,3,25,2.26,6,9,2,0,15
+12,4744,benches,1.86,0,70,1.86,6,9,2,0,0,0,0,0,0,20
+13,4758,mountain slopes mountainsides,3.11,0,40,2.26,6,9,2,0,0,0,0,0,0,30
+14,5101,stream terraces alluvial flats,10.82,0,55,17.39,5,15,5,30,7.62,3,8,3,0,0
+15,5151,none,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,6101,drainageways terraces,14.22,0,50,29.93,30,43,5,40,10.72,10,15,3,0,0
+17,6102,drainageways terraces,11.5,0,60,10.72,10,15,3,25,29.93,30,43,5,0,0
+18,6731,mountainsides,1.7,0,85,1.7,1,2,1,0,0,0,0,0,10,0
+19,7101,drainageways,27.56,5,60,29.93,30,43,5,30,57.15,81,116,1,0,0
+20,7102,drainageways,12.59,5,55,10.8,12,20,4,30,29.93,30,43,5,0,0
+21,7103,mountain slopes drainageways,13.08,2,50,29.93,30,43,5,40,6.92,0,4,3,0,0
+22,7201,mountain slopes,5.88,0,85,6.92,0,4,3,0,0,0,0,0,0,0
+23,7202,moraines drainageways,9.69,5,60,6.92,0,4,3,25,29.93,30,43,5,0,0
+24,7700,mountain slopes,5.88,0,85,6.92,0,4,3,0,0,0,0,0,5,0
+25,7701,mountain slopes,5.88,0,85,6.92,0,4,3,0,0,0,0,0,5,0
+26,7702,mountain slopes benches,5.58,0,45,10.86,17,27,3,40,2.26,6,9,2,5,0
+27,7709,mountain slopes,5.88,0,50,6.92,0,4,3,0,0,0,0,0,35,0
+28,7710,mountain slopes,5.88,0,60,6.92,0,4,3,0,0,0,0,0,20,0
+29,7745,mountain slopes benches,4.99,0,60,7.86,16,25,3,30,1.86,6,9,2,10,0
+30,7746,mountain slopes mountainsides,5.55,0,55,7.86,16,25,3,0,0,0,0,0,0,20
+31,7755,mountain slopes,4.18,0,45,6.92,0,4,3,40,2.26,6,9,2,0,10
+32,7756,mountain slopes,3.81,0,40,2.26,6,9,2,30,6.92,0,4,3,20,0
+33,7757,mountain slopes,4.67,0,50,6.92,0,4,3,25,2.26,6,9,2,15,0
+34,7790,mountain slopes mountainsides,2.88,0,60,2.88,6,10,1,0,0,0,0,0,0,25
+35,8703,solifluction lobes glacial-valley floors mountain slopes,6.13,0,40,5.15,12,18,2,25,10.8,12,20,4,20,0
+36,8707,mountain slopes,5,0,50,9.49,13,21,3,0,0,0,0,0,0,20
+37,8708,solifluction lobes mountain slopes,3.78,5,40,5.15,12,18,2,0,0,0,0,0,25,5
+38,8771,mountain slopes drainageways,10.29,0,35,6.92,0,4,3,25,29.93,30,43,5,10,0
+39,8772,mountain slopes,5.52,0,40,7.82,2,6,4,30,2.88,6,10,1,0,10
+40,8776,mountain slopes,6.22,0,60,7.82,2,6,4,20,2.88,6,10,1,0,15
