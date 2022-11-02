@@ -12,6 +12,7 @@ Two experiments were completed:
     * Set "isolet_flag" flag to False
     * Set "debug_flag" to False in run_on_dataset_covertype method.
     * Set "debug_flag_entire" to True in run_on_dataset_covertype method to run on the entire dataset size which takes longer to run on locally. Make sure other flags for dataset size are set to False.
+    * Edit "feature_lists" list to contain your "features_list" list of features you want to add to the Elevation-only CoverType dataset. There are 13 new features to select from and for more details check: "for feature_idx in features_list" in the code. The deafult tests are defined in "feature_lists" list.
 
 2. For running the experiment on the ISOLET dataset:
     * Set "isolet_flag" flag to True
